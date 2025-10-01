@@ -80,7 +80,10 @@
 - FIN-сканирование: Обычно не отвечает (если только порт не отфильтрован).
 - Xmas-сканирование: Обычно не отвечает.
 - UDP-сканирование: Отвечает пакетами ICMP для закрытых портов и может отвечать данными для открытых портов.
-
-
+---
+![](https://github.com/Koksenka/13_1/blob/master/syn.png)
+![](https://github.com/Koksenka/13_1/blob/master/fin.png)
+![](https://github.com/Koksenka/13_1/blob/master/xmas.png)
+![](https://github.com/Koksenka/13_1/blob/master/udp.png)
 
 ---
